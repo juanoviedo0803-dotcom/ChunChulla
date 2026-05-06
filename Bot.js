@@ -6,7 +6,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: "mc.ultranetwork.net",
     port: 25565,
-    username: "lematadorsss",
+    username: "ChunChulla",
     version: "1.8.9"
   })
 
